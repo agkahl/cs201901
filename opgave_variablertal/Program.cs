@@ -10,7 +10,7 @@ namespace opgave_variablertal
     {
         static void Main(string[] args)
         {
-            //Heltal
+            //Heltal skrevet linie for linie
             int qty = 10;
             Console.WriteLine(qty);
 
