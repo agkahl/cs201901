@@ -31,7 +31,7 @@ namespace OpgaveDateTime
 
 
             //double t4 = (System.Convert.ToDouble(t1) / 365);
-            Console.WriteLine(t4);
+            //Console.WriteLine(t4);
 
 
             if (System.Diagnostics.Debugger.IsAttached)
