@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arv_Polymorfi", "Arv_Polymo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arv_PolymorfiDyr", "Arv_PolymorfiDyr\Arv_PolymorfiDyr.csproj", "{78E629E3-9F1D-438E-BDCD-C37DE6CFDA8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Eget", "Interface_Eget\Interface_Eget.csproj", "{11DB9DE0-4433-4C89-9F72-7A043476977F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare", "Compare\Compare.csproj", "{FB53BABA-97DF-4978-83B2-30C7CF633404}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{78E629E3-9F1D-438E-BDCD-C37DE6CFDA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78E629E3-9F1D-438E-BDCD-C37DE6CFDA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78E629E3-9F1D-438E-BDCD-C37DE6CFDA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11DB9DE0-4433-4C89-9F72-7A043476977F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DB9DE0-4433-4C89-9F72-7A043476977F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DB9DE0-4433-4C89-9F72-7A043476977F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DB9DE0-4433-4C89-9F72-7A043476977F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB53BABA-97DF-4978-83B2-30C7CF633404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB53BABA-97DF-4978-83B2-30C7CF633404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB53BABA-97DF-4978-83B2-30C7CF633404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB53BABA-97DF-4978-83B2-30C7CF633404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
